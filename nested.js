@@ -1,4 +1,4 @@
-const money =100;
+const money =500;
 if (money>300){
      console.log('bro your borolok');
      
@@ -14,10 +14,5 @@ else{
                
           }
      }
-     // else{
-     //      if (money=0) {
-     //           console.log('bari ja');
-               
-     //      }
-     // }
+     
 }
